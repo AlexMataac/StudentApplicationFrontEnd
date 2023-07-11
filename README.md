@@ -1,3 +1,14 @@
+# What technology used?
+- ReactJs
+- Bootstrap
+- react-router-dom
+- axios
+
+# How to create and run the application?
+- npx create-react-app
+- cd my-app
+- npm start
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
